@@ -1,4 +1,5 @@
 🌸 Asha AI Bot 🤖✨ - Empowering Women's Careers with Cutting-Edge AI!
+---
 Welcome to Asha AI, an innovative conversational AI assistant designed to revolutionize women's career journeys! Built with ethical AI and tailored for the vibrant Indian context, Asha AI leverages Retrieval-Augmented Generation (RAG) to deliver personalized, real-time career support. From job listings to mentorship opportunities, Asha AI is your ultimate career companion! 🚀
 ---
 
@@ -34,7 +35,7 @@ Advanced Features: Semantic Search, Query Expansion, Bias Detection, Session Man
 
 🚀 Getting Started
 1. Clone the Repository
-git clone https://github.com/sanyagupta31/asha.git
+git clone 
 cd asha
 
 2. Set Up Environment Variables
@@ -80,11 +81,7 @@ We’d love your help! Open a pull request or start a discussion by creating an 
 📄 License
 This project is licensed under the MIT License.
 ---
-🙌 Acknowledgments
-
-JobsForHer Foundation: Pioneers in women’s career empowerment.
-Adzuna & Ticketmaster: For their powerful APIs.
-Open-Source Community: Your support fuels our innovation!
+check out the deploy link - https://asha-ai-bot-63eo.onrender.com
 
 ---
 🔥 Empowering Careers, One Conversation at a Time!
